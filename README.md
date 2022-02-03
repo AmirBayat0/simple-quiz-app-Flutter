@@ -1,2 +1,6 @@
-# simple-quiz-app-Flutter
-A Simple Quiz App With Simple Functionality - For Beginners | FLUTTER
+# Simple Quiz App - Flutter
+A Simple Quiz App With Simple Functionality - For Beginners
+## Links
+* [My Socials](https://znap.link/CodeWithFlexz)
+* [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
+* [Instagram](https://instagram.com/codewithflexz)
